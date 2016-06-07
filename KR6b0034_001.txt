@@ -1,21 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:34:17.670717
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:55
 #+TITLE: 過去世佛分衛經
 #+PROPERTY: CBETA_ID T03n0180
 #+PROPERTY: ID KR6b0034
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 180
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6b0034_T_000-0452a>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6b0034_T_001-0452a> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.180¶
-
- 佛說過去世佛分衛經¶
+No. 180¶
+佛說過去世佛分衛經¶
 ¶
-西晉月氏國三藏竺法護譯¶
+西晉〔月氏國〕－【元】【明】月氏國三藏＋（法師）【元】【明】三藏月氏國三藏竺法護譯¶
 
 佛言：「過世有佛入城分衛，與尊弟子諸菩¶
 薩俱；弟子菩薩姿容相好，皆悉端正，如本所¶
